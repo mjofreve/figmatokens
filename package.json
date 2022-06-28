@@ -1,0 +1,44 @@
+{
+  "name": "figmatokens-sparring",
+  "version": "1.0.0",
+  "description": "Ejemplo de flujo de trabajo con Figma Tokens y Chromatic",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.html",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token=c1df21a3d596"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjofreve/figmatokens-sparring.git"
+  },
+  "keywords": [
+    "figma",
+    "tokens"
+  ],
+  "author": {
+    "name": "Mauricio"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjofreve/figmatokens-sparring/issues"
+  },
+  "homepage": "https://github.com/mjofreve/figmatokens-sparring#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@storybook/addon-actions": "^6.5.9",
+    "@storybook/addon-essentials": "^6.5.9",
+    "@storybook/addon-interactions": "^6.5.9",
+    "@storybook/addon-links": "^6.5.9",
+    "@storybook/builder-webpack4": "^6.5.9",
+    "@storybook/manager-webpack4": "^6.5.9",
+    "@storybook/react": "^6.5.9",
+    "@storybook/testing-library": "^0.0.13",
+    "babel-loader": "^8.2.5",
+    "chromatic": "^6.6.4"
+  },
+  "dependencies": {},
+  "readme": "ERROR: No README data found!",
+  "_id": "figmatokens-sparring@1.0.0"
+}

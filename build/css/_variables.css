@@ -1,0 +1,36 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 28 Jun 2022 04:22:17 GMT
+ */
+
+:root {
+  --sd-global-color-1: #f22d3e;
+  --sd-global-color-2: #252525;
+  --sd-global-color-3: #3bd924;
+  --sd-global-color-4: #f22e2f;
+  --sd-global-color-5: #f2f2f2;
+  --sd-global-blanco: #ffffff;
+  --sd-global-font-families-aktiv-grotesk: Aktiv Grotesk;
+  --sd-global-line-heights-0: AUTO;
+  --sd-global-font-weights-aktiv-grotesk-0: Regular;
+  --sd-global-font-weights-aktiv-grotesk-1: XBold;
+  --sd-global-font-weights-aktiv-grotesk-2: Bold;
+  --sd-global-font-size-0: 16px;
+  --sd-global-font-size-1: 18px;
+  --sd-global-font-size-2: 20px;
+  --sd-global-font-size-3: 24px;
+  --sd-global-font-size-4: 32px;
+  --sd-global-font-size-5: 48px;
+  --sd-global-letter-spacing-0: 0%;
+  --sd-global-paragraph-spacing-0: 0;
+  --sd-global-h1-regular: [object Object];
+  --sd-global-h1-xbold: [object Object];
+  --sd-global-h2-regular: [object Object];
+  --sd-global-h3-regular: [object Object];
+  --sd-global-h4-regular: [object Object];
+  --sd-global-body: [object Object];
+  --sd-global-button-bold: [object Object];
+  --sd-global-text-case-none: none;
+  --sd-global-text-decoration-none: none;
+  --sd-global-borderradius-1: 24px;
+}
